@@ -6,7 +6,7 @@
 </p>
 
 <p align=center>
-  <img width = "900px" alt="Jio Network blocking the view? Network switch reveals the magic!" src="./assets/VaultX-stack.png">
+  <img width = "900px" alt="Jio Network blocking the view? Network switch reveals the magic!" src="./assets/Vaultx-stack.png">
 <p>
 
 
