@@ -14,7 +14,7 @@ const NavBar = () => {
       <nav className="relative z-10 lg:hidden">
         <div className="flex items-start justify-between border-b border-gray-100 p-4 pt-6 dark:border-primary/20">
           <div className="bg-gradient-to-r from-gray-400 to-gray-950 bg-clip-text font-palanquin text-2xl font-extrabold tracking-[.8px] text-transparent dark:from-gray-600 dark:to-white">
-            <Link to="/">ZippyX</Link>
+            <Link to="/">VaultX</Link>
           </div>
           <div className="flex items-center">
             <ThemeToggler />

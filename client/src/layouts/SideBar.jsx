@@ -19,7 +19,7 @@ const SideBar = () => {
         className={`sticky top-0 flex h-screen flex-col border-r border-gray-200 transition-[width] duration-100 dark:border-dark-800 ${open ? `w-[17rem]` : `w-[6rem]`}`}
       >
         <div className="m-6 bg-gradient-to-r from-gray-400 to-gray-950 bg-clip-text pl-3.5 font-palanquin text-2xl font-extrabold tracking-[.8px] text-transparent dark:from-gray-600 dark:to-white">
-          <Link to="/">{open ? 'ZippyX' : 'X'}</Link>
+          <Link to="/">{open ? 'VaultX' : 'X'}</Link>
         </div>
 
         <div className="flex h-[calc(100%-160px)] w-full flex-col space-y-2 overflow-y-auto px-5 font-montserrat">

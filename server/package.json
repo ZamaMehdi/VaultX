@@ -1,7 +1,7 @@
 {
   "name": "zippy-x-server",
   "version": "1.0.0",
-  "description": "This is backend for ZippyX App",
+  "description": "This is backend for VaultX App",
   "main": "src/server.js",
   "type": "module",
   "scripts": {
