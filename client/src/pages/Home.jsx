@@ -17,7 +17,7 @@ const Home = () => {
       <p className="absolute left-5 top-10 animate-pulse font-montserrat">
         From{' '}
         <a href="https://yntp.me" target="_blank">
-          <span className="font-medium">Jatin Verma</span>
+          <span className="font-medium">Zama Mehdi</span>
         </a>
         ...
       </p>
